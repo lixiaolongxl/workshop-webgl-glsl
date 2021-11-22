@@ -13,6 +13,7 @@ const settings = {
   context: "webgl"
 };
 
+
 const sketch = ({ context }) => {
   // Create a renderer
   const renderer = new THREE.WebGLRenderer({
