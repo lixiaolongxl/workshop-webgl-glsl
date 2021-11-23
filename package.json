@@ -42,7 +42,7 @@
     "preact-emotion": "^9.2.12",
     "preact-router": "^3.0.1",
     "prism-react-renderer": "^0.1.7",
-    "react": "^16.11.0",
+    "react": "^17.0.2",
     "riso-colors": "^1.0.1",
     "sass": "^1.22.9",
     "screenfull": "^4.2.1",
